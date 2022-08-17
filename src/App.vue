@@ -1,6 +1,6 @@
 <template>
     <div id="app">
-        <Header />
+        <Header @handleClick="handleClick" />
         <div class="contents">
             <span>Greeting: {{ message }}</span>
         </div>
@@ -24,6 +24,11 @@
                 default: 'Hello user'
             },
         },
+        methods: {
+            handleClick(event) {
+                console.log(event.target.href);
+            }
+        }
     }
 </script>
 
@@ -36,7 +41,7 @@
     }
 
     .contents {
-        padding: 10px 20px;
-        margin-top: 50px;
+        padding: 10px 25px;
+        margin-top: 25px;
     }
 </style>

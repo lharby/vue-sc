@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "name": "About us",
+        "link": "about-us",
+        "className": ""
+    },
+    {
+        "id": "02",
+        "name": "Privacy policy",
+        "link": "privacy-policy",
+        "className": "active"
+    },
+    {
+        "id": "03",
+        "name": "Cookie policy",
+        "link": "cookie-policy",
+        "className": ""
+    },
+    {
+        "id": "04",
+        "name": "Our history",
+        "link": "our-history",
+        "className": ""
+    },
+    {
+        "id": "05",
+        "name": "Contact us",
+        "link": "contact-us",
+        "className": ""
+    }
+]

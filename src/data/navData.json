@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Index",
+        "link": "desktops",
+        "className": ""
+    },
+    {
+        "id": "02",
+        "name": "Our story",
+        "link": "tablets",
+        "className": "active"
+    },
+    {
+        "id": "03",
+        "name": "Studios",
+        "link": "mobile-phones",
+        "className": ""
+    },
+    {
+        "id": "04",
+        "name": "Careers",
+        "link": "accessories",
+        "className": ""
+    }
+]
